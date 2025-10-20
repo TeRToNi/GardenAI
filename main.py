@@ -1,9 +1,9 @@
 from ultralytics import YOLO
 
-# Load the model.
+# Load the model
 model = YOLO('yolov8n.pt')
 
-# Training.
+# Training
 results = model.train(
     data='pothole_v8.yaml',
     imgsz=1280,
