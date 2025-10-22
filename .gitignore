@@ -37,6 +37,8 @@ pip-selfcheck.json
 # Zsh history
 .zsh_history
 
+gui.ipynb
+
 # Zsh sessions
 .zsh_sessions
 
